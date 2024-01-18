@@ -72,6 +72,9 @@ nav li{
     border-radius: 5px;
     border-color:  #FD6E0A;
 }
+
+
+
 /* Main Section */
 main{
     max-width: 1140px;
@@ -80,6 +83,10 @@ main{
 section{
     margin-top: 130px;
 }
+
+
+
+
 /* about section styles */
 .about{
     margin-top: 130px;
@@ -112,6 +119,9 @@ section{
     font-size: 20px;
     color: #000000;
 }
+
+
+
 /* what I do styles */
 
 .skill-container{
@@ -133,6 +143,9 @@ section{
 .skill-description{
     color: #757575;
 }
+
+
+
 /* Resume Styles */
 .resume-content{
     display: flex;
